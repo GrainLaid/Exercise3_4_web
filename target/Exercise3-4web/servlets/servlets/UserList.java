@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 import java.util.Map;
 
-public class UserList  {
+public class UserList extends Dispatcher  {
 
     public static User findUser(String user){
 

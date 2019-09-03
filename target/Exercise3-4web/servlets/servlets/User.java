@@ -1,6 +1,7 @@
 package servlets;
 
-public class User  {
+
+public class User extends Dispatcher  {
 
     public String getUser(){return user;}
 

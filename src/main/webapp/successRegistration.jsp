@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <?xml version="1.0" encoding="windows-1251"?>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <%@ page contentType="text/html; charset=UTF-8" %>
 
     <title>Страница подтверждения успешной регистрации посетителя</title>
 
